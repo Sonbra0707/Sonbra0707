@@ -50,30 +50,12 @@ A Hype Infinity é onde eu construo sistemas que quebram barreiras.
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sonbra0707&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonbra0707&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sonbra0707&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- 
-  A snake animation abaixo requer um workflow do GitHub Actions gerando o SVG.
-  Se você não tiver configurado, ela não vai aparecer. 
-  Para ativar, veja: https://github.com/Platane/snk
--->
-
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sonbra0707/Sonbra0707/output/github-contribution-grid-snake-dark.svg" />
-</p>
--->
 
 ---
 

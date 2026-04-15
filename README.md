@@ -46,7 +46,9 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,ruby,php,rust,go,c,cpp,mysql,linux,git,github,vscode,bash,powershell,burpsuite&theme=dark&perline=8" />
 </p>
 
-![Top Langs](https://gh-readme-stats.rahulv.dev/api/top-langs/?username=rahul-vashishtha&langs_count=10&count_private=true&layout=compact)
+![Rahul's Wakatime stats](https://gh-readme-stats.rahulv.dev/api/wakatime?username=rahul_vashishtha&layout=compact&custom_title=Rahul%27s%20Wakatime%20Stats)
+
+![Rahul's Code Streak](https://gh-streak-stats.rahulv.dev/?user=rahul-vashishtha&theme=dark&hide_border=true)
 
 
 ---

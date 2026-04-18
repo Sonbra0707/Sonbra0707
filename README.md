@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto: carp3016@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto: Sonbra0707@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a />
 </div>
 
@@ -51,7 +51,7 @@
 </div>
     
 ---
-<a href="https://www.instagram.com/samuelmendes0/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"></a> 
+<a href="https://www.instagram.com/hypeinfinity.ofc/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"></a> 
 
 
 ⚙️ Tech Stack
